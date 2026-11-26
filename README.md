@@ -28,27 +28,8 @@ The project demonstrates a complete data analytics workflow, including data unde
 - Period: 2016–2024
 - 14 columns covering sales, stores, departments, holidays, and external factors.
 
-## Project Structure
-
-supermarket-sales-analysis/
-├── data/
-│   ├── raw/
-│   └── cleaned/
-├── notebooks/
-│   ├── 01_data_understanding.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   └── 03_exploratory_analysis.ipynb
-├── sql/
-│   └── 01_sales_analysis.sql
-├── visualizations/
-├── dashboard/
-│   ├── Nepal_Supermarket_Sales_Analysis.pbix
-│   └── Nepal_Supermarket_Sales_Analysis.pdf
-└── README.md
-
 
 ## Analysis Performed
-
 ### Python
 - Dataset inspection and validation
 - Missing-value analysis
